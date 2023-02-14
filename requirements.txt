@@ -6,3 +6,4 @@ pydantic
 scikit_learn
 wordcloud
 xgboost
+uvicorn
