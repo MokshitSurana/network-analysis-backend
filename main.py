@@ -8,7 +8,7 @@ from transformers import BertTokenizerFast
 from model import BertForTokenAndSequenceJointClassification
 import torch
 import pandas as pd
-
+fake_news_updated.pkl
 
 app = FastAPI()
 
